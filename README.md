@@ -572,8 +572,6 @@ Build a comprehensive Business Intelligence Dashboard to provide an overall view
 
   This visualization helps examine spending patterns across different membership years.
 
-  ![Average Spending by Membership Years](visuals/Average_Spending_by_Membership_Years.png)
-
 - Step 8 : Added a Slicer using the `Customer_Type` field to enable interactive filtering of the dashboard.
 
   The slicer contains three customer categories:
