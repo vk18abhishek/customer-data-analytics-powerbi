@@ -615,7 +615,7 @@ The final Business Intelligence Dashboard looks like this:
 - Average spending across membership years shows some fluctuations, as represented by the line chart.
 
 
-**Abhishek Kumar**  
-Github:  [https://github.com/vk18abhishek]
+  **Abhishek Kumar**  
+Github:  [https://github.com/vk18abhishek] (https://github.com/vk18abhishek/customer-data-analytics-powerbi)
 
 
